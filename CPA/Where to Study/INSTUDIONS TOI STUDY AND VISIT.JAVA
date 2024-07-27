@@ -12,13 +12,13 @@
 ares to visit on monday
 
 
-- 1TRASTION UNIVESITY 5th floor, Pioneer House, Moi Avenue. Nairobi   ---- NEAR COOPERATIVE BANK
-KIPS COLLEGE - OPPSITE COOPETIVE BANK
-NIBS - OPPITE COOOPETIVE 
-
--2 Summiut univetuy    ---Bank House, Moi Ave, Kenyatta Ave
-Kenya Institute of Development Studies ---NEAR KENCOM 
-3 - KCA  UNIVERSITY  -- Muthaiga 
-4 -Kenya Institute of Business and Counselling Studies (KIBCO) details  - Near Globe roundabout
+- 1TRASTION UNIVESITY 5th floor, Pioneer House, Moi Avenue. Nairobi   ---- NEAR COOPERATIVE BANK  -knb
+KIPS COLLEGE - OPPSITE COOPETIVE BANK  -----knb
+-2 Summiut univetuy    ---Bank House, Moi Ave, Kenyatta Ave  --knb
+3 - KCA  UNIVERSITY  -- Muthaiga   knb
 
 
+
+NIBS - OPPITE COOOPETIVE --no knb
+Kenya Institute of Development Studies ---NEAR KENCOM no kncb
+4 -Kenya Institute of Business and Counselling Studies (KIBCO) details  - Near Globe roundabout  -no knb
